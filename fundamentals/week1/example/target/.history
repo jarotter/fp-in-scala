@@ -1,0 +1,8 @@
+[warn] /Users/jarotter/Documents/MOOCs/fp-in-scala/fundamentals/week1/example/project/CommonBuild.scala:3: trait Build in package
+compile
+test
+run
+all {file:/Users/jarotter/Documents/MOOCs/fp-in-scala/fundamentals/week1/example/}root/products {file:/Users/jarotter/Documents/MOOCs/fp-in-scala/fundamentals/week1/example/}root/test:products
+submit jorgearotter@gmail.com n9dnp4m0ACz1CnSi
+console
+exit

@@ -1,0 +1,4 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/9x/6xh4t4zj0xl8_w4d_v2jk9l40000gn/T/sbt-structure.xml; session clear-all
+all {file:/Users/jarotter/Documents/MOOCs/fp-in-scala/fundamentals/week1/recfun/}root/products {file:/Users/jarotter/Documents/MOOCs/fp-in-scala/fundamentals/week1/recfun/}root/test:products
+submit jorgearotter@gmail.com d42OfZ3ElfJIAjNn
+submit jorgearotter@gmail.com cAsI2I9kEk6ODItI
